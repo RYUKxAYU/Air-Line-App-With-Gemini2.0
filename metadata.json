@@ -1,0 +1,5 @@
+{
+  "name": "Airline Market Demand Tracker",
+  "description": "A web application to track and visualize airline market demand and pricing trends using AI-generated data.",
+  "requestFramePermissions": []
+}
